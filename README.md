@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ruchi15-coder
-- 👀 I’m interested in develioping software
+- 👀 I’m interested in developing software
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing currently
 - 📫 How to reach me through linkedin
